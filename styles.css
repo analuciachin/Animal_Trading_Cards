@@ -1,0 +1,40 @@
+/* add your CSS here */
+
+body {
+	width: 340px;
+}
+
+img {
+	display: block;
+    margin: 10px auto;
+}
+
+.information {
+	width: 300px;
+	margin: 0 auto;
+}
+
+.fact {
+	font-style: italic;
+}
+
+.span_bold {
+	font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.border_page {
+	border-style: groove;
+}
+
+.padding_space {
+	padding: 0 10px;
+}
+
+.margin_bottom {
+	padding-bottom: 15px;
+}
